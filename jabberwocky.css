@@ -1,1 +1,11 @@
 /* Styles for Jabberwocky.html */
+
+header, h1, h3, div, img, p {
+  border: 2px solid orange;
+  padding: 5px;
+  margin: 10px;
+}
+
+img {
+  float: left;
+}
